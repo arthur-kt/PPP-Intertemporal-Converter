@@ -10,7 +10,7 @@ Para expressar os valores em dólares correntes, é aplicado o ajuste pela infla
 O ano de 2024 não conta com dados do PPP, logo a conversão de valores foi feita utilizando a taxa média de câmbio do ano de 2024 do país com dados em 2024 em relação ao dólar americano.
 
 ## Instruções
-Insira em 'País_Moeda' o o país emissor da moeda utilizada (no caso de uso de moedas diferentes do país de origem), em 'País do Programa' o país de origem do Programa, em 'Ano' o ano da origem dos recursos, em 'Gasto_Local' a quantia dispendida, em 'Programa' o nome do Programa e em 'Descrição' uma breve descrição da função ou destinação dos valores. A coluna 'Ano2' serve para os programas que tem custos entre 2 diferentes anos, sendo necessário calcular a média do PPP e da inflação americana. Então, insira no 'Ano2' o último ano do programa, se não, preencha com 0.
+Na seção "Insira seus dados", insira em 'País_Moeda' o país emissor da moeda utilizada (no caso de uso de moedas diferentes do país de origem), em 'País do Programa' o país de origem do Programa, em 'Ano' o ano da origem dos recursos, em 'Gasto_Local' a quantia dispendida, em 'Programa' o nome do Programa e em 'Descrição' uma breve descrição da função ou destinação dos valores. A coluna 'Ano2' serve para os programas que tem custos entre 2 diferentes anos, sendo necessário calcular a média do PPP e da inflação americana. Então, insira no 'Ano2' o último ano do programa, se não, preencha com 0.
 
 ## Fontes
 - PPP conversion factor, GDP (LCU per international $): https://data.worldbank.org/indicator/PA.NUS.PPP?view=chart&year=2023
